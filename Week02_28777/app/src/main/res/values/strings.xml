@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week 02_28777</string>
+    <!-- Define string untuk Main activity-->
+    <string name="angka1">Angka1</string>
+    <string name="angka2">Angka1</string>
+    <string name="btnTambah">Angka1</string>
+    <string name="btnKurang">Angka1</string>
+    <string name="btnKali">Angka1</string>
+    <string name="btnBagi">Angka1</string>
+    <string name="hasil">Angka1</string>
+</resources>
